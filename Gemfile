@@ -57,7 +57,7 @@ group :production do
 end
 
 gem 'dotenv-rails'
-gem 'devise', git: 'git@github.com:plataformatec/devise.git'
+gem 'devise', github: 'plataformatec/devise'
 gem 'devise-bootstrap-views'
 gem 'redis', '~> 3.0'
 gem 'i18n-js', '>= 3.0.0.rc11'
