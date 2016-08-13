@@ -68,4 +68,5 @@ gem 'rails-assets-bootstrap', '~> 4.0.0.alpha.2', source: 'https://rails-assets.
 gem 'rails-assets-tether', source: 'https://rails-assets.org'
 gem 'rails-assets-sticky-kit', source: 'https://rails-assets.org'
 gem 'font-awesome-rails'
+gem 'thredded', '~> 0.6.1'
 

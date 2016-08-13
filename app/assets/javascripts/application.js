@@ -6,3 +6,4 @@
 //= require sticky-kit
 //= require react
 //= require react_ujs
+//= require thredded
